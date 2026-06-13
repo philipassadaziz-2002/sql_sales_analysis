@@ -35,8 +35,8 @@ What percentage of customers have churned, and how many remain active?
 
 **📊 Visualization:**
 
-![Cohort_Analysis](/images/pie_chart_customer_segmentation.png)
-![Cohort_Analysis](/images/customer-segmentation-count.png)
+![Customer_Segmentation](pie_chart_customer_segmentation.png)
+![Customer_sqgmentation](customer-segmentation-count.png)
 
 📊 **Key Findings:**
 - High Value customers (25% of base) generate 64% of total revenue
@@ -60,7 +60,7 @@ What percentage of customers have churned, and how many remain active?
 
 **📊 Visualization:**
 
-![Cohort_Analysis](/images/cohort%20analysis.png)
+![Cohort_Analysis](cohort%20analysis.png)
 
 📊 **Key Findings:**
 - Although total revenue peaked in 2019 and 2022, ARPU has been declining steadily since 2015 
@@ -87,7 +87,7 @@ What percentage of customers have churned, and how many remain active?
 
 **📊 Visualization:**
 
-![Cohort_Analysis](/images/Q3-customer%20churn%20analysis.png)
+![Customer_Churn_Analysis](Q3-customer%20churn%20analysis.png)
 
 📊 **Key Findings:**
 - 90.53% of customers (42K) have churned — only 9.47% (4K) remain active
