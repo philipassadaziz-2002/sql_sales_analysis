@@ -55,7 +55,7 @@ What percentage of customers have churned, and how many remain active?
 - Cohorts were grouped by year of first purchase
 - Analyzed ARPU at a cohort level
 
-🖥️ Query: [Q2](Q2-cohort_analysis_luke.sql)
+🖥️ Query: [Q2](Q2-cohort_analysis.sql)
 
 
 **📊 Visualization:**
