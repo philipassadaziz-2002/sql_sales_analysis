@@ -31,7 +31,7 @@ What percentage of customers have churned, and how many remain active?
 - Used 25th and 75th percentiles to define segment boundaries
 - Aggregated revenue and customer count per segment
 
-🖥️ Query: [1_query_.sql](/Scripts/Q1-Customer_ltv_segmentation.sql)
+🖥️ Query: [Q1](Q1-Customer_ltv_segmentation.sql)
 
 **📊 Visualization:**
 
@@ -55,7 +55,7 @@ What percentage of customers have churned, and how many remain active?
 - Cohorts were grouped by year of first purchase
 - Analyzed ARPU at a cohort level
 
-🖥️ Query: [2_query_.sql](/Scripts/Q2-cohort_analysis_luke.sql)
+🖥️ Query: [Q2](Q2-cohort_analysis_luke.sql)
 
 
 **📊 Visualization:**
@@ -83,7 +83,8 @@ What percentage of customers have churned, and how many remain active?
 - Classified customers as Churned or Active based on 6-month inactivity threshold
 
 
-🖥️ Query: [3_query_.sql](/Scripts/Q3-%20customer_churn_analysis.sql)
+🖥️ Query: [Q3](Q3-%20customer_churn_analysis.sql)
+
 
 **📊 Visualization:**
 
